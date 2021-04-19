@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nmydt.github.io</id>
     <title>nmydt</title>
-    <updated>2021-04-19T16:45:10.426Z</updated>
+    <updated>2021-04-19T16:47:43.604Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nmydt.github.io"/>
     <link rel="self" href="https://nmydt.github.io/atom.xml"/>
@@ -17,18 +17,6 @@
         </link>
         <updated>2021-04-19T12:00:56.000Z</updated>
         <content type="html"><![CDATA[<p><a href="https://nmydt.github.io/axu">https://nmydt.github.io/axu</a></p>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
-  <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
-  var gitalk = new Gitalk({
-  clientID: 'GitHub Application Client ID',
-  clientSecret: 'GitHub Application Client Secret',
-  repo: 'GitHub repo',
-  owner: 'GitHub repo owner',
-  admin: ['GitHub repo owner and collaborators, only these guys can initialize github issues'],
-  id: location.pathname,      // Ensure uniqueness and length less than 50
-  distractionFreeMode: false  // Facebook-like distraction free mode
-})
-<p>gitalk.render('gitalk-container')</p>
 ]]></content>
     </entry>
     <entry>
