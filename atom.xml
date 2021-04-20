@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nmydt.github.io</id>
     <title>nmydt</title>
-    <updated>2021-04-20T04:51:32.577Z</updated>
+    <updated>2021-04-20T10:26:16.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nmydt.github.io"/>
     <link rel="self" href="https://nmydt.github.io/atom.xml"/>
@@ -10,6 +10,28 @@
     <logo>https://nmydt.github.io/images/avatar.png</logo>
     <icon>https://nmydt.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, nmydt</rights>
+    <entry>
+        <title type="html"><![CDATA[资源]]></title>
+        <id>https://nmydt.github.io/post/zi-yuan/</id>
+        <link href="https://nmydt.github.io/post/zi-yuan/">
+        </link>
+        <updated>2021-04-20T04:58:20.000Z</updated>
+        <content type="html"><![CDATA[<p>资源<br>
+名称：彼岸图网<br>
+描述：每天免费下载一张4k超清壁纸<br>
+名称：PPT/Word/Excle模板<br>
+描述：可以下载包括总结、报告、简历和财务报表等各个方面的PPT/Word/Excle模板<br>
+名称：Font Awesome<br>
+描述：一套绝佳的图标字体库和CSS样式<br>
+工具<br>
+名称：Cmd Markdown编辑阅读器<br>
+描述：界面十分简洁舒适，可以线上写MarkDown文档，并同步到自己的账号，发布到社区<br>
+名称：Windows Update Blocker<br>
+描述：一款禁止Win10升级的小工具<br>
+名称：DeepL<br>
+描述：科技巨头谷歌（Google）、微软（Microsoft）和脸书（Facebook）都将机器学习应用到翻译领域，但一家名为DeepL的小公司却超越了他们，并且提高了该领域的标准。其翻译速度可与规模庞大的竞争者相媲美，但比我们使用过的任何一个翻译工具都要准确和</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[test]]></title>
         <id>https://nmydt.github.io/post/test/</id>
