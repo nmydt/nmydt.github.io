@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://nmydt.github.io</id>
+    <title>n m y d t</title>
+    <updated>2022-05-01T02:49:30.332Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://nmydt.github.io"/>
+    <link rel="self" href="https://nmydt.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://nmydt.github.io/images/avatar.png</logo>
+    <icon>https://nmydt.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, n m y d t</rights>
+    <entry>
+        <title type="html"><![CDATA[娱乐]]></title>
+        <id>https://nmydt.github.io/post/yu-le/</id>
+        <link href="https://nmydt.github.io/post/yu-le/">
+        </link>
+        <updated>2022-04-09T11:47:51.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://qkan8.com/">去看吧动漫</a><br>
+<a href="http://www.dm55.cc/">动漫岛</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[计算机学习网站]]></title>
+        <id>https://nmydt.github.io/post/ji-suan-ji-xue-xi-wang-zhan/</id>
+        <link href="https://nmydt.github.io/post/ji-suan-ji-xue-xi-wang-zhan/">
+        </link>
+        <updated>2021-08-23T11:58:13.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://www.ruanyifeng.com/blog/2013/05/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm.html">阮一峰的网络日志</a><br>
+<a href="https://www.liaoxuefeng.com/">廖雪峰</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python 测试网站 && 脚本]]></title>
+        <id>https://nmydt.github.io/post/python-ce-shi-wang-zhan/</id>
+        <link href="https://nmydt.github.io/post/python-ce-shi-wang-zhan/">
+        </link>
+        <updated>2021-08-14T12:27:11.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="aistudio">AiStudio</h2>
+<p><a href="https://aistudio.baidu.com/aistudio/projectdetail/2283417">AIStudio</a></p>
+<h2 id="️scripts️">☘️Scripts☘️</h2>
+<p><a href="https://www.baiduyun.wiki/">油小猴</a><br>
+脚本：tampermonkey</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[图片头像动漫]]></title>
+        <id>https://nmydt.github.io/post/tu-pian-tou-xiang/</id>
+        <link href="https://nmydt.github.io/post/tu-pian-tou-xiang/">
+        </link>
+        <updated>2021-08-13T06:45:51.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://www.google.com/search?newwindow=1&amp;sxsrf=ALeKk03ULfJsAxe94NM0aljMTtrxH5DExg:1628837117158&amp;source=univ&amp;tbm=isch&amp;q=%E5%8A%A8%E6%BC%AB%E5%9C%86%E5%BD%A2%E7%94%B7%E7%94%9F%E5%A4%B4%E5%83%8F&amp;sa=X&amp;ved=2ahUKEwir946Os63yAhXOEogKHaxUCz8Q7Al6BAgEEA8&amp;biw=1366&amp;bih=657">动漫圆形男生头像</a><br>
+<img src="https://nmydt.github.io/post-images/1651330960265.jpeg" alt="" loading="lazy"><br>
+动漫<br>
+<a href="http://kudm.vip/">异世界</a> -- <a href="https://qkan8.com/">去看吧</a> -- <a href="https://www.sbdm.net/">在线动漫</a> -- <a href="https://www.gqdm.net/">高清动漫</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[工具]]></title>
+        <id>https://nmydt.github.io/post/github-wen-jian-zhuan-huan-gong-ju/</id>
+        <link href="https://nmydt.github.io/post/github-wen-jian-zhuan-huan-gong-ju/">
+        </link>
+        <updated>2021-08-07T16:05:27.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="工具">工具</h2>
+<p><a href="https://tool.lu/crontab/">crontab</a> -- <a href="https://tool.lu/shell/">shell format</a> -- <a href="https://tool.lu/sql">sql</a></p>
+<p><a href="https://ykjtb.com/">一块剪贴板</a> -- <a href="https://www.emojiall.com/zh-hans">表情包</a> -- <a href="https://www.vidmore.com/zh/watermark-remover/#">去水印</a> -- <a href="https://www.baiduyun.wiki/">脚本网站</a><br>
+<a href="https://www.jsdelivr.com/github">Github 文件转换</a> -- <a href="https://products.aspose.app/words/zh/conversion/word-to-md">doc,pdf,md互转</a> pdf =&gt;pdf ocr(Adobe Acrobat pro || Microft Word)=&gt;doc =&gt;(Microft Word)</p>
+<p><a href="https://www.microsoft.com/zh-cn/software-download/windows10">Windows U盘安装</a> -- <a href="https://windows10.pro/microsoft-com-software-download-windows10-iso/">Windows 直接下载ISO</a>也就是使用手机界面打开上一个网址 -- <a href="https://www.ventoy.net/cn/doc_start.html">Widows PE制作</a></p>
+<p><a href="https://snapcraft.io/install/shfmt/centos#install">shell 格式化Centos</a><br>
+<a href="https://docs.cfw.lbyczf.com/contents/ui/profiles/rules.html">clash 规则</a></p>
+<h2 id="markdown">MarkDown</h2>
+<p><a href="https://nmydt.github.io/md4/">md颜色</a> --  <a href="https://nmydt.github.io/2md/">html convert to md</a> -- <a href="https://pandoc.org/MANUAL.html#general-options">docx to markdown</a> --  <a href="https://nmydt.github.io/m2w-transform/">md to wechat</a> --  <a href="https://nmydt.github.io/md/#/">Best_wechat</a><br>
+<a href="https://nmydt.xyz/weixin/">微信排版备份</a> -- <a href="https://md.aclickall.com/">微信排版</a> -- <a href="https://ask.hellobi.com/blog/python_shequ/18669#articleHeader3">微信排版介绍</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[计算机基础网站]]></title>
+        <id>https://nmydt.github.io/post/idea-kuai-jie-jian/</id>
+        <link href="https://nmydt.github.io/post/idea-kuai-jie-jian/">
+        </link>
+        <updated>2021-08-05T05:11:37.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://interviewguide.cn/#/README">阿秀的校招笔记</a><br>
+<a href="https://programmercarl.com">Carl 算法</a><br>
+<a href="https://labuladong.gitbook.io/algo/">labuladong</a><br>
+<a href="https://w86fskhnhi.feishu.cn/base/appcnPi0qF2EusU1Nb5Ea70lAEe?table=tblKdqSyLdtsXV9s&amp;view=vewRYrqjiU">字节跳动</a><br>
+<a href="https://blog.nmydt.xyz/Java_BigData">Java_BigData</a><br>
+<a href="http://dblab.xmu.edu.cn/blog/category/big.data/page/10/">大数据学习网站</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[文档网站]]></title>
+        <id>https://nmydt.github.io/post/zi-yuan/</id>
+        <link href="https://nmydt.github.io/post/zi-yuan/">
+        </link>
+        <updated>2021-04-20T04:58:20.000Z</updated>
+        <content type="html"><![CDATA[<p>GitHUb Pages 文档类：<a href="https://www.jianshu.com/p/4883e95aa903">docsify</a>,<br>
+<a href="https://docsify.js.org/#/zh-cn/configuration">https://docsify.js.org/#/zh-cn/configuration</a>（十分推荐）<br>
+<a href="https://vuepress.vuejs.org/">vuepress</a>(十分推荐)<br>
+<a href="https://gridea.dev/">gridea</a>(十分推荐)<br>
+十分不推荐gitbook（比较麻烦）</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitBook]]></title>
+        <id>https://nmydt.github.io/post/a-xu-kong-jian-bei-fen/</id>
+        <link href="https://nmydt.github.io/post/a-xu-kong-jian-bei-fen/">
+        </link>
+        <updated>2021-04-19T12:00:56.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="http://vercel.app">Github部署多项环境</a></p>
+]]></content>
+    </entry>
+</feed>

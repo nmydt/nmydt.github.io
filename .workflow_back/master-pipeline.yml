@@ -1,0 +1,38 @@
+version: '1.0'
+name: pipeline-20220430
+displayName: 删除github worksflow ,生成gitee 流水线
+triggers:
+  trigger: auto
+  push:
+    branches:
+      prefix:
+        - master
+variables:
+  global:
+    - PRIVATE_KEY
+stages:
+  - name: stage-9478bc46
+    displayName: 未命名
+    strategy: naturally
+    trigger: auto
+    executor: []
+    steps:
+      - step: build@python
+        name: build_python
+        displayName: Shell执行
+        pythonVersion: '3.9'
+        commands:
+          - pwd
+          - ls -al
+          - rm -rf .github
+          - find . -type f | xargs sed -i "s/nmydt.github.io/nmydt.gitee.io/g"
+          - echo "blog.nmydt.xyz" > CNAME
+          - ls -al
+          - git config --global user.email 319485106@qq.com
+          - git config --global user.name nmydt
+          - git add .
+          - git commit -m "update" -a
+          - git push --force --quiet https://nmydt:$PRIVATE_KEY@gitee.com/nmydt/nmydt.git  master:master
+permissions:
+  - role: admin
+    members: []
