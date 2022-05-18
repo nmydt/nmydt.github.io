@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nmydt.github.io</id>
     <title>n m y d t</title>
-    <updated>2022-05-10T11:09:05.594Z</updated>
+    <updated>2022-05-18T19:13:10.944Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nmydt.github.io"/>
     <link rel="self" href="https://nmydt.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://nmydt.github.io/images/avatar.png</logo>
     <icon>https://nmydt.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, n m y d t</rights>
+    <entry>
+        <title type="html"><![CDATA[小学资源]]></title>
+        <id>https://nmydt.github.io/post/xiao-xue-zi-yuan/</id>
+        <link href="https://nmydt.github.io/post/xiao-xue-zi-yuan/">
+        </link>
+        <updated>2022-05-10T14:04:48.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://www.2ppt.com/ppt/info/fuk.html">ppt</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[优秀博客]]></title>
         <id>https://nmydt.github.io/post/you-xiu-bo-ke/</id>
@@ -72,8 +81,9 @@
         </link>
         <updated>2021-08-07T16:05:27.000Z</updated>
         <content type="html"><![CDATA[<h2 id="工具">工具</h2>
-<p><a href="https://tool.lu/crontab/">crontab</a> -- <a href="https://tool.lu/shell/">shell format</a> -- <a href="https://tool.lu/sql">sql</a></p>
-<p><a href="https://ykjtb.com/">一块剪贴板</a> -- <a href="https://www.emojiall.com/zh-hans">表情包</a> -- <a href="https://www.vidmore.com/zh/watermark-remover/#">去水印</a> -- <a href="https://www.baiduyun.wiki/">脚本网站</a><br>
+<p><a href="https://tool.lu/crontab/">crontab</a> -- <a href="https://tool.lu/shell/">shell format</a> -- <a href="https://tool.lu/sql">sql</a><br>
+<a href="https://pmd5.com/">md5解密</a><br>
+<a href="https://ykjtb.com/">一块剪贴板</a> -- <a href="https://www.emojiall.com/zh-hans">表情包</a> -- <a href="https://www.vidmore.com/zh/watermark-remover/#">去水印</a> -- <a href="https://www.baiduyun.wiki/">脚本网站</a><br>
 <a href="https://www.jsdelivr.com/github">Github 文件转换</a> -- <a href="https://products.aspose.app/words/zh/conversion/word-to-md">doc,pdf,md互转</a> pdf =&gt;pdf ocr(Adobe Acrobat pro || Microft Word)=&gt;doc =&gt;(Microft Word)</p>
 <p><a href="https://www.microsoft.com/zh-cn/software-download/windows10">Windows U盘安装</a> -- <a href="https://windows10.pro/microsoft-com-software-download-windows10-iso/">Windows 直接下载ISO</a>也就是使用手机界面打开上一个网址 -- <a href="https://www.ventoy.net/cn/doc_start.html">Widows PE制作</a></p>
 <p><a href="https://snapcraft.io/install/shfmt/centos#install">shell 格式化Centos</a><br>
